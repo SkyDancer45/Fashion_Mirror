@@ -9,8 +9,8 @@ Module.register("newsfeed", {
 	defaults: {
 		feeds: [
 			{
-				title: "New York Times",
-				url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+				title: "Firstpost",
+				url: "https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml",
 				encoding: "UTF-8" //ISO-8859-1
 			}
 		],
